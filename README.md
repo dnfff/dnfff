@@ -18,7 +18,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>Telegram
     <a href="https://t.me/dnnffff" target="_blank">
-      <img src="https://www.flaticon.com/ru/free-icon/message_8743947?term=mail&page=1&position=21&origin=search&related_id=8743947" width="40" height="40" alt="mail" />
+      <img src="https://cdn-icons-png.flaticon.com/512/331/331390.png?w=826&t=st=1689323154~exp=1689323754~hmac=9c785e813cec20a2b6b18b1ed46aef42a7a6ae46d697871d4f626a65c2ccba13" width="40" height="40" alt="mail" />
     </a>Mail
   </div>
 
