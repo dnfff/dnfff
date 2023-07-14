@@ -139,7 +139,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+![codewars](https://www.codewars.com/users/dnff/badges/large)
 
 ### ⚙️ GitHub статистика:
 
