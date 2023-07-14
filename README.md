@@ -1,4 +1,8 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
+# Привет, меня зовут Алексей!
+
+---
+
+
 <h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
 
 <p align="left">
@@ -96,10 +100,6 @@
 
 > Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
 
-
-# Привет, меня зовут Алексей!
-
----
 
 ### :man_technologist: Обо мне:
 
